@@ -1,5 +1,29 @@
 # Vital-Track
-IoT technology has revolutionized the way we interact with our environment and has transformed various aspects of our lives, including healthcare. With the advent of remote body vital monitoring systems, patients can now access continuous health monitoring from the comfort of their homes, eliminating the need for frequent hospital visits. This has not only improved patient convenience but also reduced healthcare costs. 
-In this context, this proposal aims to develop an IoT-based remote body vital monitoring system that can monitor multiple body vitals such as heart rate, blood pressure, and temperature in real-time. The project will cover the objectives, scope, methodology, and implementation of the system, including the hardware and software components used to build it. 
-By leveraging the power of IoT, the proposed system can significantly enhance the quality of care provided to patients, especially those with chronic conditions. It can also provide doctors with valuable real-time insights into their patients' health status and enable them to make informed decisions based on accurate and up-to-date information. Additionally, the project will assess the potential benefits of the system and its impact on the healthcare industry, including its ability to improve patient outcomes, reduce healthcare costs, and increase efficiency.
-Overall, this project highlights the potential of IoT technology to transform healthcare and improve patient care outcomes, providing a valuable contribution to the growing field of remote health monitoring systems.
+
+Description
+This project is a prototype for monitoring different body vital and environmental conditions. The system uses a variety of sensors, including a temperature sensor, an environmental sensor, and a network connection. The data collected from these sensors is then displayed on a web dashboard and uploaded to a cloud platform for further data analysis and real-time monitoring.
+
+Features
+-> Monitors a variety of body vital signs, including temperature, heart rate, and blood pressure.
+-> Monitors environmental conditions, such as temperature, humidity, and air quality.
+-> Displays data on a web dashboard.
+-> Uploads data to a cloud platform for further analysis.
+-> Can be used to identify potential health problems.
+
+Benefits
+-> Helps people to monitor their health in real time.
+-> Helps people to identify potential health problems early on.
+-> Helps people to take steps to improve their health.
+
+Getting Started
+1. Install the Arduino IDE.
+2. Download the project files from GitHub.
+3. Open the project in the Arduino IDE.
+4. Connect the sensors to your NodeMCU (you may refer to report for diagrams).
+5. Upload the code to your board.
+6. Open the web dashboard in your web browser.
+7. Log in to the web dashboard using the api key provided in the project documentation.
+Start monitoring your health!
+
+Documentation
+The project documentation is available on GitHub. The documentation includes instructions on how to install and use the project, as well as a technical overview of the system is provided in the report.
